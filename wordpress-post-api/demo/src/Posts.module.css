@@ -1,0 +1,29 @@
+
+
+.postsContainer{
+    display: flex;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.postContainer{
+    /*background: red;*/    
+    margin: 20px
+}
+
+.postContainer img{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;   
+}
+
+.postContainer h2{
+    font-size: 32px;
+    text-align: center;
+    margin-top: 10px;
+    opacity: .87;
+}
+
+.postInfoContainer{
+    padding: 20px;
+}
