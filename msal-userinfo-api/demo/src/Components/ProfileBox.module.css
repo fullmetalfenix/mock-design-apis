@@ -1,0 +1,18 @@
+.profileBoxContainer{
+    height: 180px;
+    background: #f3f2f1;
+    box-shadow: 0px 0px 8px rgb(0 0 0 / 30%) inset;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 34px;
+    flex-direction: column;
+}
+.name{
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+.title{
+    margin-top: 0px;
+    color:gray
+}
