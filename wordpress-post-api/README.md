@@ -15,7 +15,7 @@ How to use this Mock Wordpress Post API
 
 with create-react-app:
 1. drop the 'mock-wordpress-api' folder in your 'src' folder
-2. drop the images folder into the 'public' folder
+2. drop the images folder (img) into the 'public' folder
 3. open the 'mock-wordpress-api.js' file and set the latency. The latency is there to mimic network latency when making a call to the api.
 3. add 'import getPosts from "./mock-wordpress-api/mock-wordpress-api";' into whatever component you want to call the data in
 4. make the call to the data however you usually would with the real api:
